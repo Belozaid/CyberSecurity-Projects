@@ -62,5 +62,5 @@ Figma (designs)
 
 📬 Contact
 
-LinkedIn: ()
+LinkedIn: (الاطلاع على ملف ‏Belal Zaid Alsheikh‏ الشخصي على LinkedIn https://ye.linkedin.com/in/belal-zaid-alsheikh-3a9a7039b)
 Email: (belozaid21@gmail.com)
