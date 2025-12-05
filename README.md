@@ -24,12 +24,13 @@ Tools used
 Report (PDF)
 
 Key findings
-
 🔥 Projects in this Repository
-Project	Description	Status
-01 – PowerShell Malicious Execution Simulation	Simulated attack, Sysmon log analysis, full incident report	✔ Completed
-02 – Firewall Log Investigation	Detecting abnormal inbound connections & port scanning	✔ In Progress
-03 – Suspicious Activity Tracker Tool	Python GUI tool for monitoring events	Coming soon
+| Project                                            | Description                                                 | Status        |
+| -------------------------------------------------- | ----------------------------------------------------------- | ------------- |
+| **01 – PowerShell Malicious Execution Simulation** | Simulated attack, Sysmon log analysis, full incident report | ✔ Completed   |
+| **02 – Firewall Log Investigation**                | Detecting abnormal inbound connections & port scanning      | ✔ In Progress |
+| **03 – Suspicious Activity Tracker Tool**          | Python GUI tool for monitoring events                       | Coming soon   |
+
 🧰 Skills Demonstrated
 
 Windows Event Logs
